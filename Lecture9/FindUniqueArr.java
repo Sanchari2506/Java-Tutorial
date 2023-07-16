@@ -19,7 +19,7 @@ public class FindUniqueArr {
         }
       }
 
-        if(j ==arr.length){
+        if(j == arr.length){
           return arr[i];
         }
       
